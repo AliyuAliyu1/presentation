@@ -29,7 +29,7 @@ const handleLogin = (e) => {
   e.preventDefault(); // Prevent form default submit
 
   // Redirect to external dashboard URL
-  window.location.href = 'https://myskillhub-dun.vercel.app/dashboard/';
+  window.location.href = 'https://https-github-com-aliyu-aliyu1-backe.vercel.app/';
 };
 </script>
 
